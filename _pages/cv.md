@@ -85,7 +85,7 @@ GPA: 4.0
 
 * **1st Place**, Biodesign Pitch Competition · *Fall 2025*  
   *University of New Mexico · Dr. Christina Salas · BME 598*  
-  *Awarded grant funding for R&D of the proposed solution*
+  *Awarded **$25,000** in grant funding for R&D of the proposed solution*
 
 
 ---
