@@ -9,11 +9,12 @@ redirect_from:
 ---
 
 **Adrian Ruiz Vasquez**  
-[aruizvasquez03@unm.edu](mailto:aruizvasquez03@unm.edu) · **Albuquerque, NM**
+[aruizvasquez03@unm.edu](mailto:aruizvasquez03@unm.edu)  
+Albuquerque, NM
 
 ---
 
-## Education
+<p style="font-size: 1.15em; font-weight: bold; margin-top: 0;">Education</p>
 
 **University of New Mexico**  
 **Master of Science in Mathematics**  
@@ -21,7 +22,7 @@ redirect_from:
 
 **University of New Mexico**  
 **Master of Science in Computer Science**  
-*Graduated May 2026*
+*Graduated May 2026*  
 GPA: 4.06
 
 **University of New Mexico**  
@@ -37,7 +38,7 @@ GPA: 4.0
 
 ---
 
-## Experience
+<p style="font-size: 1.15em; font-weight: bold; margin-top: 0;">Experience</p>
 
 **Computer Scientist**
 
