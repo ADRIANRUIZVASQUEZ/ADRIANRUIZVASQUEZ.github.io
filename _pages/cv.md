@@ -15,10 +15,9 @@ redirect_from:
 
 ## Education
 
-**University of New Mexico**
-
-**Master of Science in Mathematics**
-*Anticipated May 2029*
+**University of New Mexico**  
+**Master of Science in Mathematics**  
+*Anticipated May 2029*  
 Concentration: Applied Mathematics
 
 **University of New Mexico**
@@ -63,7 +62,7 @@ GPA: 4.0
 
 * **Officer**, SIAM (Society for Industrial and Applied Mathematics) UNM Chapter · *Fall 2026 – Present*
 
-* **Scientific Committee Member**, SIAM UNM Chapter SWAM Conference · *October 2026*
+* **Scientific Committee Member**, SIAM UNM Chapter GS-SWAM Conference · *October 2026*
 
 * **Software Developer**, UNM Lobo Motorsports FSAE Club · *Fall 2023 – Spring 2025*
 
