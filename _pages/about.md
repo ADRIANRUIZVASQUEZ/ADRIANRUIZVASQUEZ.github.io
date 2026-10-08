@@ -7,6 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-# Adrian Ruiz Vasquez
-
 Mathematics M.S. Student & Computer Scientist
