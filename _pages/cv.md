@@ -17,25 +17,22 @@ redirect_from:
 
 **University of New Mexico**  
 **Master of Science in Mathematics**  
-*Anticipated May 2029*  
-Concentration: Applied Mathematics
+*Anticipated May 2029*
 
-**University of New Mexico**
-
-**Master of Science in Computer Science**
+**University of New Mexico**  
+**Master of Science in Computer Science**  
 *Graduated May 2026*
 GPA: 4.06
 
-**University of New Mexico**
-
-**Bachelor of Science in Computer Science**
-*Graduated May 2025*
-GPA: 3.90 · *Summa Cum Laude*
+**University of New Mexico**  
+**Bachelor of Science in Computer Science**  
+*Graduated May 2025*  
+GPA: 3.90 · *Summa Cum Laude*  
 Minor in Mathematics
 
-**West Mesa High School**
-Albuquerque, New Mexico
-*Graduated May 2021*
+**West Mesa High School**  
+Albuquerque, New Mexico  
+*Graduated May 2021*  
 GPA: 4.0
 
 ---
