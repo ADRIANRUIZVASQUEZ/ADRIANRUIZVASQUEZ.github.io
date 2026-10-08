@@ -1,11 +1,13 @@
 ---
 permalink: /
-title: "Mathematics M.S. Student & Computer Scientist"
+title: "Adrian Ruiz Vasquez"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+<p style="font-size: 1.15em; font-weight: bold; margin-top: 0;">Mathematics M.S. Student & Computer Scientist</p>
 
 I am a first-generation college graduate from Albuquerque, NM. I am currently pursuing an M.S. in Mathematics at the University of New Mexico, having earned my M.S. in Computer Science in 2026 and my B.S. in Computer Science in 2025.
 
