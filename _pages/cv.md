@@ -10,6 +10,7 @@ redirect_from:
 ### Adrian Ruiz Vasquez
 
 [aruizvasquez03@unm.edu](mailto:aruizvasquez03@unm.edu)
+
 **Albuquerque, NM**
 
 ---
