@@ -14,7 +14,7 @@ Albuquerque, NM
 
 ---
 
-<p style="font-size: 1.15em; font-weight: bold; margin-top: 0;">Education</p>
+<p style="font-size: 1.15em; font-weight: bold; margin-top: 0; margin-bottom: 0.3em;">Education</p>
 
 **University of New Mexico**  
 **Master of Science in Mathematics**  
@@ -38,12 +38,11 @@ GPA: 4.0
 
 ---
 
-<p style="font-size: 1.15em; font-weight: bold; margin-top: 0;">Experience</p>
+<p style="font-size: 1.15em; font-weight: bold; margin-top: 0; margin-bottom: 0.3em;">Experience</p>
 
-**Computer Scientist**
-
-**Knight Scientific Systems** · Albuquerque, NM
-*March 2024 – Present*
+**Computer Scientist**  
+**Knight Scientific Systems** · Albuquerque, NM  
+*March 2024 – Present*  
 [knightsci.com](https://www.knightsci.com/)
 
 * Contribute to external research efforts supporting the U.S. Department of Defense, implementing path planning, computational geometry, and collision detection algorithms to generate kinematically feasible flight paths for drones, naval ships, and airplanes.
