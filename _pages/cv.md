@@ -49,6 +49,21 @@ GPA: 4.0
 * Test and scale performance of industry-standard open-source computer vision neural networks, including object detection, segmentation, and tracking, to highlight issues with state-of-the-art computer vision research.
 * Provide technical support in writing DoD SBIR contract proposals, technical reports, and publications.
 
+**CS Tutor**  
+**University of New Mexico – Computer Science Department** · Albuquerque, NM  
+*January 2024 – May 2024*  
+* Tutor undergraduate students in Algorithms and Data Structures.
+* Tutor students in Calculus I & II, Algebra, and Statistical Probability Theory.
+* Tutor students in Python and Java.
+* Assist students with computational physics and programming.
+
+**Tutor**  
+**University of New Mexico – Mathematics & Statistics Department** · Albuquerque, NM  
+*August 2023 – January 2024*  
+* Tutor incoming freshman students in Intermediate Algebra.
+* Proctor final examinations.
+* Assist students with understanding and navigating ALEKS.
+
 ---
 
 <p style="font-size: 1.15em; font-weight: bold; margin-top: 0; margin-bottom: 0.3em;">Leadership & Activities</p>
