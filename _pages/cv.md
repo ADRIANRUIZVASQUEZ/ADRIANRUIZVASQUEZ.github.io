@@ -41,7 +41,7 @@ GPA: 4.0
 <p style="font-size: 1.15em; font-weight: bold; margin-top: 0; margin-bottom: 0.3em;">Experience</p>
 
 **Computer Scientist**  
-**Knight Scientific Systems** · Albuquerque, NM  
+**[Knight Scientific Systems](https://www.knightsci.com/)** · Albuquerque, NM  
 <div style="margin-bottom: -0.5em; margin-top: -1.3em">
 <em>March 2024 – Present</em>
 </div> 
