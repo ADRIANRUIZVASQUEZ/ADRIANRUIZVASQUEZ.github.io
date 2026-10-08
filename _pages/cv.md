@@ -59,7 +59,7 @@ GPA: 4.0
 
 **Math Tutor**  
 **University of New Mexico – Mathematics & Statistics Department** · Albuquerque, NM   
-<div style="margin-bottom: -0.5em;">
+<div style="margin-bottom: -0.5em; margin-top: 0.0em">
 <em>August 2023 – January 2024</em>
 </div>
 * Tutor incoming freshman students in Intermediate Algebra.
