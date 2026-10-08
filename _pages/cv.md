@@ -7,76 +7,73 @@ redirect_from:
   - /resume
 ---
 
+# Adrian Ruiz Vasquez
+
+**Albuquerque, NM**
+[aruizvasquez03@unm.edu](mailto:aruizvasquez03@unm.edu)
+
+---
+
 ## Education
 
-**University of New Mexico**  
-M.S. Mathematics, Applied Mathematics  
-Expected May 2029
+### University of New Mexico
 
-**University of New Mexico**  
-M.S. Computer Science
+**Master of Science in Mathematics**
+*Anticipated May 2029*
+Concentration: Applied Mathematics
+
+### University of New Mexico
+
+**Master of Science in Computer Science**
+*Graduated May 2026*
+GPA: 4.06
+
+### University of New Mexico
+
+**Bachelor of Science in Computer Science**
+*Graduated May 2025*
+GPA: 3.90 · *Summa Cum Laude*
+Minor in Mathematics
+
+### West Mesa High School
+
+Albuquerque, New Mexico
+*Graduated May 2021*
+GPA: 4.0
+
+---
 
 ## Experience
 
-**Knight Scientific Systems**  
-Computer Scientist
+### Computer Scientist
 
-## Research Interests
+**Knight Scientific Systems** · Albuquerque, NM
+*March 2024 – Present*
+[knightsci.com](https://www.knightsci.com/)
 
-Computational mathematics, numerical analysis, computational topology, and related areas.
+* Contribute to external research efforts supporting the U.S. Department of Defense, implementing path planning, computational geometry, and collision detection algorithms to generate kinematically feasible flight paths for drones, naval ships, and airplanes.
+* Contribute to internal research and commercialization efforts integrating and synthesizing machine learning computer vision models to enhance experimental prototyping, replicability, and explainability.
+* Test and scale performance of industry-standard open-source computer vision neural networks, including object detection, segmentation, and tracking, to highlight issues with state-of-the-art computer vision research.
+* Provide technical support in writing DoD SBIR contract proposals, technical reports, and publications.
 
-<!-- {% include base_path %}
+---
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Leadership & Activities
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Officer**, SIAM (Society for Industrial and Applied Mathematics) UNM Chapter · *Fall 2026 – Present*
+* **Scientific Committee Member**, SIAM UNM Chapter SWAM Conference · *October 2026*
+* **Software Developer**, UNM Lobo Motorsports FSAE Club · *Fall 2023 – Spring 2025*
+* **Team Lead**, UNM CS Software Engineering Milestone Course · *Fall 2024*
+* **Volunteer**, The Rock at Noonday Homeless Shelter · *July 2026 – Present*
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+---
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Skills
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams -->
+* **Programming:** C++, Python, Java, JavaScript, C, MATLAB, R
+* **Mathematics:** Real Analysis, Differential Equations
+* **Web Development:** React, HTML, HTTP, WebSocket
+* **Software & Tools:** CMake, Docker, Git, LaTeX
+* **Technical & Proposal Writing:** DoD SBIR Proposal Development
+* **Databases:** SQL
+* **UAS Experience:** Recreational Drone Pilot; UAS Flight Operations
