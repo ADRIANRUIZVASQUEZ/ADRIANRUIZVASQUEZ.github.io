@@ -7,7 +7,25 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+## Education
+
+**University of New Mexico**  
+M.S. Mathematics, Applied Mathematics  
+Expected May 2029
+
+**University of New Mexico**  
+M.S. Computer Science
+
+## Experience
+
+**Knight Scientific Systems**  
+Computer Scientist
+
+## Research Interests
+
+Computational mathematics, numerical analysis, computational topology, and related areas.
+
+<!-- {% include base_path %}
 
 Education
 ======
@@ -61,4 +79,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
