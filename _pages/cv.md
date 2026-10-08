@@ -42,7 +42,8 @@ GPA: 4.0
 
 **Computer Scientist**  
 **Knight Scientific Systems** · Albuquerque, NM  
-<p style="margin-bottom: 0.1em;"><em>March 2024 – Present</em></p>
+*March 2024 – Present*  
+[knightsci.com](https://www.knightsci.com/)  
 * Contribute to external research efforts supporting the U.S. Department of Defense, implementing path planning, computational geometry, and collision detection algorithms to generate kinematically feasible flight paths for drones, naval ships, and airplanes.
 * Contribute to internal research and commercialization efforts integrating and synthesizing machine learning computer vision models to enhance experimental prototyping, replicability, and explainability.
 * Test and scale performance of industry-standard open-source computer vision neural networks, including object detection, segmentation, and tracking, to highlight issues with state-of-the-art computer vision research.
@@ -50,7 +51,7 @@ GPA: 4.0
 
 **CS Tutor**  
 **University of New Mexico – Computer Science Department** · Albuquerque, NM  
-<p style="margin-bottom: 0.1em;"><em>August 2023 – January 2024</em></p>
+*January 2024 – May 2024*  
 * Tutor undergraduate students in Algorithms and Data Structures.
 * Tutor students in Calculus I & II, Algebra, and Statistical Probability Theory.
 * Tutor students in Python and Java.
@@ -58,7 +59,7 @@ GPA: 4.0
 
 **Math Tutor**  
 **University of New Mexico – Mathematics & Statistics Department** · Albuquerque, NM  
-<p style="margin-bottom: 0.1em;"><em>January 2024 – May 2024</em></p>
+*August 2023 – January 2024*  
 * Tutor incoming freshman students in Intermediate Algebra.
 * Proctor final examinations.
 * Assist students with understanding and navigating ALEKS.
