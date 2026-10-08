@@ -99,3 +99,11 @@ GPA: 4.0
 * **Technical & Proposal Writing:** DoD SBIR Proposal Development
 * **Databases:** SQL
 * **UAS Experience:** Recreational Drone Pilot; UAS Flight Operations
+
+---
+
+<p style="font-size: 1.15em; font-weight: bold; margin-top: 0; margin-bottom: 0.3em;">Languages</p>
+
+* **English:** Native
+* **Spanish:** Native
+* **French:** Conversational
