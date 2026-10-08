@@ -74,7 +74,7 @@ GPA: 4.0
 <p style="font-size: 1.15em; font-weight: bold; margin-top: 0; margin-bottom: 0.3em;">Leadership & Activities</p>
 
 * **Officer**, SIAM (Society for Industrial and Applied Mathematics) UNM Chapter · *Fall 2026 – Present*
-* **Scientific Committee Member**, SIAM UNM Chapter GS-SWAM Conference · *October 2026*
+* **Scientific Committee Member**, [SIAM UNM Chapter GS-SWAM Conference](https://gsswam2026.github.io/) · *October 2026*  
 * **Software Developer**, UNM Lobo Motorsports FSAE Club · *Fall 2023 – Spring 2025*
 * **Team Lead**, UNM CS Software Engineering Milestone Course · *Fall 2024*
 * **Volunteer**, The Rock at Noonday Homeless Shelter · *July 2026 – Present*
