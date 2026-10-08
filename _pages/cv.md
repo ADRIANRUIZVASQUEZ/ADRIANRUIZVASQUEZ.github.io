@@ -7,10 +7,10 @@ redirect_from:
   - /resume
 ---
 
-# Adrian Ruiz Vasquez
+### Adrian Ruiz Vasquez
 
-**Albuquerque, NM**
 [aruizvasquez03@unm.edu](mailto:aruizvasquez03@unm.edu)
+**Albuquerque, NM**
 
 ---
 
