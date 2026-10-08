@@ -58,8 +58,10 @@ GPA: 4.0
 * Assist students with computational physics and programming.
 
 **Math Tutor**  
-**University of New Mexico – Mathematics & Statistics Department** · Albuquerque, NM  
-*August 2023 – January 2024*  
+**University of New Mexico – Mathematics & Statistics Department** · Albuquerque, NM   
+<div style="margin-bottom: -0.5em;">
+<em>August 2023 – January 2024</em>
+</div>
 * Tutor incoming freshman students in Intermediate Algebra.
 * Proctor final examinations.
 * Assist students with understanding and navigating ALEKS.
