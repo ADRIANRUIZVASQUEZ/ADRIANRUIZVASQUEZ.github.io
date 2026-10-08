@@ -81,6 +81,15 @@ GPA: 4.0
 
 ---
 
+<p style="font-size: 1.15em; font-weight: bold; margin-top: 0; margin-bottom: 0.3em;">Awards</p>
+
+* **1st Place**, Biodesign Pitch Competition · *Fall 2025*  
+  *University of New Mexico · Dr. Christina Salas*  
+  *Awarded grant funding for R&D of the proposed solution*
+
+
+---
+
 <p style="font-size: 1.15em; font-weight: bold; margin-top: 0; margin-bottom: 0.3em;">Skills</p>
 
 * **Programming:** C++, Python, Java, JavaScript, C, MATLAB, R
